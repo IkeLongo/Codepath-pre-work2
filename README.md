@@ -3,9 +3,8 @@
 ### User can tap on one of two buttons to change the text color, or highlight the text.
 
 ### App Walk-though
-I could not get any of the recommended gif creators to work on my Windows PC. I have tried to figure this out for several days now, but I could not figure out a solution. I really want to be in this course and learn about the app creation process. I hope you can understand.
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="file:///C:/Users/isaac/OneDrive/Desktop/Animation.gif" width=200><br> 
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
