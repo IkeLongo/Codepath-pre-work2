@@ -1,7 +1,6 @@
 ## BURP SNARP
 
 ### User can tap on one of two buttons to change the text color, or highlight the text.
-`TODO://` Add app description
 
 ### App Walk-though
 I could not get any of the recommended gif creators to work on my Windows PC. I have tried to figure this out for several days now, but I could not figure out a solution. I really want to be in this course and learn about the app creation process. I hope you can understand.
