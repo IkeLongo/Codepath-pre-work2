@@ -4,7 +4,7 @@
 
 ### App Walk-though
 
-<https://1drv.ms/u/s!AjM1_c84mwpsieFFqO-qEAF3Doa4uQ?e=yxpA34" width=200><br>
+<https://imgur.com/gallery/VYMH2i0" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
