@@ -4,7 +4,7 @@
 
 ### App Walk-though
 
-<img src="file:///C:/Users/isaac/OneDrive/Desktop/Animation.gif" width=200><br> 
+<img src="https://1drv.ms/u/s!AjM1_c84mwpsieE95KoA1NlCWJUVrQ?e=hX5Pht" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
